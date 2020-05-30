@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1577312502 source:e:\programming\introduction to programming\ads\ads labs\tellersystem\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"queue.h"
+	"menu.h"
+	"linkedList.h"
+
+1576637638 e:\programming\introduction to programming\ads\ads labs\tellersystem\queue.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1576637436 e:\programming\introduction to programming\ads\ads labs\tellersystem\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1577053569 e:\programming\introduction to programming\ads\ads labs\tellersystem\linkedlist.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
